@@ -1,0 +1,81 @@
+@media screen { BODY { max-width: 50em; } }
+
+body
+{
+    background-image: url("fond.png");
+	width: 90%;
+	margin: auto;
+	font-family: Georgia, Verdana, Arial;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.titre-section {
+ 	background-color: #CC5A21;
+	color: white;
+	font-weight: bold;  
+	font-size: 16pt;	
+	padding: 10px;
+	text-align: center;
+	border:groove;
+	border-radius: 15px;
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+}
+
+.sommaire {
+	background-color: #E38455;
+	color: white;
+	font-weight: bold;  
+	font-size: 10pt;	
+	padding: 10px;
+	text-align: center;
+	border:groove;
+	border-radius: 15px;
+	margin-top: 10px; 
+	margin-bottom: 10px;
+	
+}
+
+
+.annee {
+	font-size: 16pt;
+}
+
+.corps-sujet {
+	margin : auto;
+	text-align: center;
+	background-color: #EAA37F;
+	border:groove;
+	border-radius: 15px;
+	padding-top : 5px;
+	padding-bottom : 10px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 825px;
+	margin: auto;
+	font-family: Georgia, Verdana, Arial;
+}
+
+.pied {
+    background-color: #CC5A21;
+	color: white;
+	font-weight: bold;  
+	font-size: 10pt;	
+	padding: 10px;
+	text-align: center;
+	border:groove;
+	border-radius: 15px;
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+}
+
+ul {
+     text-align: left;
+}
